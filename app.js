@@ -6,7 +6,7 @@ const app = express();
 
 // Define a route
 app.get('/', (req, res) => {
-  res.send('Hello, this is my Node.js server!');
+  res.send('Так - это просто заглушка для выполнения задания и не более. Работу выполнил Волощенко Алексей.');
 });
 
 // Start the server
